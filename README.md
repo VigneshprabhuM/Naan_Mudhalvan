@@ -19,10 +19,10 @@ Before running the code, you need to install the following Python libraries:
 
 You can install these dependencies using pip:
 
-```bash
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost
 Dataset
-The dataset used in this project is from Kaggle and can be found at the following link: USA Housing Dataset.
+The dataset used in this project is from Kaggle and can be found at the following link: https://www.kaggle.com/datasets/vedavyasv/usa-housing
+
 
 The dataset includes the following columns:
 
